@@ -1,0 +1,23 @@
+{
+  "name": "oatmeal",
+  "version": "0.0.1",
+  "description": "Oatmeal is a lightweight and efficient version control tool for frontend resources built on Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackylz/oatmeal.git"
+  },
+  "keywords": [
+    "version",
+    "control"
+  ],
+  "author": "jacky",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jackylz/oatmeal/issues"
+  },
+  "homepage": "https://github.com/jackylz/oatmeal#readme"
+}
