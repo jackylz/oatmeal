@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/jackylz/oatmeal/issues"
   },
-  "homepage": "https://github.com/jackylz/oatmeal#readme"
+  "homepage": "https://github.com/jackylz/oatmeal#readme",
+  "devDependencies": {
+    "cheerio": "^1.0.0-rc.1",
+    "grunt": "^1.0.1"
+  }
 }
