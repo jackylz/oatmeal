@@ -10,6 +10,7 @@ A javascript verison control tool.
     - src -> dist, need to compile and version
     - dist -> prod, need to handle the api
     - Do not exist src -> prod directly
+    - Single file mode and global mode
     - Clean the unuse files before two version, based on the files its version
     - Deploy tool for dist -> prod(server) in AMS
     - * Watching the changes of files and refresh both files and show in navigator 
